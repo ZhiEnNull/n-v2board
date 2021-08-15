@@ -11,7 +11,7 @@
             title: '{{$title}}',
             version:  '{{$verison}}',
             crisp_id: '{{$crisp_id}}',
-            Community_url:'https://t.me/ZhiEnNull',//设置侧边栏url
+            Community_url:'https://t.me/ZhiEnNull',//设置侧边栏url 其他地方不要动,后台设置即可
         }
     </script>
     <script type="module" crossorigin src="/theme/{{$theme}}/assets/index.bbf6b93f.js"></script>
