@@ -12,6 +12,7 @@
             version:  '{{$verison}}',
             crisp_id: '{{$crisp_id}}',
             Community_url:'https://t.me/ZhiEnNull',//设置侧边栏url 其他地方不要动,后台设置即可
+            Carousel_url:['https://xxx.jpg','https://xxx.png','https://xxx.svg']//首页轮播图 数组形式可添加多张 自行测试
         }
     </script>
     <script type="module" crossorigin src="/theme/{{$theme}}/assets/index.bbf6b93f.js"></script>
