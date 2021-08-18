@@ -15,8 +15,8 @@
             Carousel_url:['https://xxx.jpg','https://xxx.png','https://xxx.svg']//首页轮播图 数组形式可添加多张 自行测试
         }
     </script>
-    <script type="module" crossorigin src="/theme/{{$theme}}/assets/index.bbf6b93f.js"></script>
-    <link rel="modulepreload" href="/theme/{{$theme}}/assets/vendor.dfd46f6e.js">
+    <script type="module" crossorigin src="/theme/{{$theme}}/assets/index.95834551.js"></script>
+    <link rel="modulepreload" href="/theme/{{$theme}}/assets/vendor.b96a7c72.js">
     <link rel="stylesheet" href="/theme/{{$theme}}/assets/index.24fcc79c.css">
 </head>
 <body>
